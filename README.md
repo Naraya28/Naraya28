@@ -56,7 +56,7 @@ Hi, I'm **Fakhri**, a software engineering student interested in building practi
 ### 📈 GitHub Activity
 
 <div align="center">
-  <a href="https://github.com/Naraya28?tab=overview&from=2026-11-01&to=2026-11-30">
+  <a href="https://github.com/Naraya28">
     <img src="./assets/activity.svg" alt="Explore Fakhri's GitHub contribution history and latest development activity" width="100%" />
   </a>
   <p><sub>Click the card to explore activity on GitHub. The graphic is decorative and does not display live statistics.</sub></p>
