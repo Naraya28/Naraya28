@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+<title id="title">GitHub activity — explore contributions</title>
+<desc id="desc">A midnight blue developer activity card inviting visitors to explore Naraya28's live GitHub contributions.</desc>
+<defs>
+  <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0B1326"/><stop offset=".58" stop-color="#132B4D"/><stop offset="1" stop-color="#0B172B"/>
+  </linearGradient>
+  <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#22D3EE"/><stop offset="1" stop-color="#818CF8"/>
+  </linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" fill="none" stroke="#93C5FD" stroke-width="1" stroke-opacity=".05"/>
+  </pattern>
+  <clipPath id="round"><rect width="1200" height="250" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#round)">
+  <rect width="1200" height="250" fill="url(#background)"/>
+  <rect width="1200" height="250" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="248" rx="19" fill="none" stroke="#38BDF8" stroke-opacity=".26" stroke-width="2"/>
+  <rect x="55" y="49" width="4" height="151" rx="2" fill="url(#accent)"/>
+  <text x="84" y="72" fill="#67E8F9" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="3">ON GITHUB</text>
+  <text x="82" y="128" fill="#F8FAFC" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="39" font-weight="750">Explore my contributions</text>
+  <text x="84" y="166" fill="#CBD5E1" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="20">See my latest commits, projects and development activity.</text>
+  <text x="84" y="206" fill="#7DD3FC" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="17" font-weight="650">View live activity on GitHub  →</text>
+  <g opacity=".92">
+    <path d="M905 79h45v21h-45z M960 79h45v21h-45z M1015 79h45v21h-45z M1070 79h45v21h-45z
+             M905 110h45v21h-45z M960 110h45v21h-45z M1015 110h45v21h-45z M1070 110h45v21h-45z
+             M905 141h45v21h-45z M960 141h45v21h-45z M1015 141h45v21h-45z M1070 141h45v21h-45z"
+          fill="#1E3A5F"/>
+    <rect x="905" y="79" width="45" height="21" rx="5" fill="#155E75"/>
+    <rect x="960" y="110" width="45" height="21" rx="5" fill="#0891B2"/>
+    <rect x="1015" y="79" width="45" height="21" rx="5" fill="#0E7490"/>
+    <rect x="1070" y="141" width="45" height="21" rx="5" fill="#6366F1"/>
+    <rect x="1015" y="141" width="45" height="21" rx="5" fill="#22D3EE"/>
+    <rect x="960" y="141" width="45" height="21" rx="5" fill="#164E63"/>
+    <rect x="1070" y="79" width="45" height="21" rx="5" fill="#164E63"/>
+  </g>
+  <text x="907" y="193" fill="#7893B6" font-family="Segoe UI,Inter,Arial,sans-serif" font-size="13">Activity motif · not live data</text>
+</g>
+</svg>
