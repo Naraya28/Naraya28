@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title description">
+  <title id="title">Naraya28 developer profile banner</title>
+  <desc id="description">Hi, I'm Fakhri. Software engineering student building useful software.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#090F1F"/>
+      <stop offset="0.52" stop-color="#112545"/>
+      <stop offset="1" stop-color="#081224"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#22D3EE"/>
+      <stop offset="1" stop-color="#6366F1"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#0EA5E9" stop-opacity=".20"/>
+      <stop offset="1" stop-color="#0EA5E9" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M 42 0 L 0 0 0 42" fill="none" stroke="#7DD3FC" stroke-opacity=".09" stroke-width="1"/>
+    </pattern>
+    <clipPath id="clip"><rect x="0" y="0" width="1200" height="340" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="340" fill="url(#bg)"/>
+    <rect width="1200" height="340" fill="url(#grid)"/>
+    <circle cx="930" cy="158" r="300" fill="url(#glow)"/>
+    <path d="M735 285 C837 210,914 290,1030 163 S1190 113,1280 19" fill="none" stroke="url(#line)" stroke-width="2.5" opacity=".54"/>
+    <path d="M780 329 C864 227,948 260,1082 123 S1206 54,1296 -48" fill="none" stroke="#4F46E5" stroke-width="1.4" opacity=".35"/>
+    <circle cx="1005" cy="165" r="108" fill="none" stroke="#22D3EE" stroke-opacity=".30" stroke-width="1.4"/>
+    <circle cx="1005" cy="165" r="77" fill="none" stroke="#A5B4FC" stroke-opacity=".32" stroke-width="1.2"/>
+    <circle cx="1005" cy="165" r="41" fill="none" stroke="#22D3EE" stroke-opacity=".55" stroke-width="1.8"/>
+    <circle cx="1005" cy="165" r="8" fill="#22D3EE"/>
+    <path d="M962 165h86M1005 122v86" stroke="#22D3EE" stroke-opacity=".20"/>
+    <circle cx="1042" cy="95" r="5" fill="#A5B4FC"/>
+    <circle cx="922" cy="232" r="4.5" fill="#22D3EE"/>
+    <circle cx="1132" cy="212" r="4" fill="#60A5FA"/>
+    <text x="70" y="65" fill="#67E8F9" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="17" font-weight="700" letter-spacing="4">NARAYA28 / DEVELOPER PROFILE</text>
+    <rect x="70" y="84" width="78" height="4" rx="2" fill="url(#line)"/>
+    <text x="68" y="165" fill="#F8FAFC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="58" font-weight="800">Hi, I'm Fakhri.</text>
+    <text x="70" y="215" fill="#7DD3FC" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="26" font-weight="650">Software Engineering Student</text>
+    <text x="70" y="257" fill="#CBD5E1" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="20">Building ideas into useful digital experiences.</text>
+    <text x="71" y="309" fill="#7B91AF" font-family="Segoe UI, Inter, Arial, sans-serif" font-size="13" letter-spacing="2">WEB DEVELOPMENT   ·   SOFTWARE ENGINEERING   ·   GAME DEV</text>
+  </g>
+</svg>
